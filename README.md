@@ -1,7 +1,8 @@
 ### Hi there 👋
 <h3>My name is Heesun Choi, a senior CS student at the University of Michigan</h3>
-<p>Here are my lists of projects, video demo to external website (Youtube)</p>
+<p>Here are my lists of projects, link to demo page or video demo to external website (Youtube)</p>
 <a href="https://youtu.be/iC3Wp3i_UYU">Avoid Covid</a>
+<a href="https://heesunchoi.github.io/Todo/">Todo</a>
 
 
 
