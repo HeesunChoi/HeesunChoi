@@ -6,6 +6,7 @@
 <p><a href="https://youtu.be/iC3Wp3i_UYU">Avoid Covid</a> (used: JavaScript, jQuery, CSS, HTML)</p> 
 <p><a href="https://heesunchoi.github.io/Todo/">Todo</a> (used: JavaScript, CSS, HTML)</p>
 
+  <p><a href="https://blog.naver.com/hsssy01/222328198640">My Blog (in Korean)</a></p> 
 </ul>
 
 
